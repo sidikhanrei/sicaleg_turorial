@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksi_caleg=self.webpackChunksi_caleg||[]).push([[5129],{8507:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/sicaleg_tutorial/blog/tags/facebook","allTagsPath":"/sicaleg_tutorial/blog/tags","count":1}')}}]);
