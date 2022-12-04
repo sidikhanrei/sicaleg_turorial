@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksi_caleg=self.webpackChunksi_caleg||[]).push([[2909],{9877:e=>{e.exports=JSON.parse('{"permalink":"/sicaleg_tutorial/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
