@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksi_caleg=self.webpackChunksi_caleg||[]).push([[4185],{6864:e=>{e.exports=JSON.parse('{"permalink":"/sicaleg_tutorial/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
