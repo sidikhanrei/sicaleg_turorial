@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksi_caleg=self.webpackChunksi_caleg||[]).push([[4216],{944:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/sicaleg_tutorial/blog/tags/docusaurus","allTagsPath":"/sicaleg_tutorial/blog/tags","count":4}')}}]);

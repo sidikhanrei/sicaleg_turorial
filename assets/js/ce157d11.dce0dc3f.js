@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksi_caleg=self.webpackChunksi_caleg||[]).push([[8546],{5864:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/sicaleg_tutorial/blog/tags/hello","allTagsPath":"/sicaleg_tutorial/blog/tags","count":2}')}}]);
